@@ -31,8 +31,8 @@ The app features a modern gradient design with:
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
-   cd network-device-scanner
+   git clone https://github.com/ArnabZ3R0/getip-app
+   cd getip-app
    ```
 
 2. **Install dependencies:**
